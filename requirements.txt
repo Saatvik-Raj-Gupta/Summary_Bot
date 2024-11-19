@@ -1,0 +1,6 @@
+nest_asyncio==1.6.0
+pandas==2.2.3
+protobuf==5.28.3
+python-dotenv==1.0.1
+python-telegram-bot==21.7
+streamlit==1.40.1
